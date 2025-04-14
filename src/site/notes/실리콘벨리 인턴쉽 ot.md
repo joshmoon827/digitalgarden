@@ -3,7 +3,6 @@
 ---
 
 
-
 [[what is klaim?\|what is klaim?]]
 
 FE : next, taliwind css, ts, Vercel,
