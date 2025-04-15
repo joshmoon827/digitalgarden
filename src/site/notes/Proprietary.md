@@ -2,27 +2,13 @@
 {"dg-publish":true,"permalink":"/proprietary/"}
 ---
 
-
 fire base 대항마 : supabase
-### **📦** 
-
-### **1. Firebase와 AWS의 주요 서비스 비교**
-
-|**기능**|**Firebase**|**AWS**|
-|---|---|---|
-|📄 Database|Firestore (NoSQL 실시간 문서 기반 DB)|DynamoDB (고성능 NoSQL 키-값 저장소)|
-|📂 File Storage|Storage (이미지, 영상 등 파일 저장)|S3 (확장성 높은 오브젝트 스토리지)|
-|🔐 Auth|Authentication (간편한 사용자 인증 기능)|Cognito (복잡하지만 유연한 인증 시스템)|
-
-  
-
----
 
 ### **🚧** 
 
-### **2. Proprietary 문제란?**
+### **1. Proprietary 문제란?**
 
-  
+**Proprietary 문제**란, **특정 개인이나 기업, 단체가 소유권을 가지고 있는 문제**를 말합니다.
 
 **Proprietary** 시스템은 다음과 같은 문제를 야기할 수 있습니다:
 
@@ -37,7 +23,7 @@ fire base 대항마 : supabase
 
 ### **🌱** 
 
-### **3. 오픈소스를 만드는 이유**
+### **2. 오픈소스를 만드는 이유**
 
   
 
