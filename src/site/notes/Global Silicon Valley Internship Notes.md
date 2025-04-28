@@ -3,9 +3,11 @@
 ---
 
 [[Silicon Valley Internship OT\|Silicon Valley Internship OT]]
-[[Environment Setup Before Starting\|Environment Setup Before Starting]]
 [[Collection of Silicon Valley Internship Links\|Collection of Silicon Valley Internship Links]]
+
+[[Silicon Valley Internship Log\|Silicon Valley Internship Log]]
 
 [[Code Analysis\|Code Analysis]]
 
 [[troubleshooting\|troubleshooting]]
+
